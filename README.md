@@ -1,9 +1,10 @@
-#Newsapp 
+
+##Newsapp 
 
 which gives a user regularly-updated news from the internet related to a particular topic, person, or location. 
 The presentation of the information as well as the topic is up to you.
 
-#What will I learn?
+##What will I learn?
 
 This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
 
