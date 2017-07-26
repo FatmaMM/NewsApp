@@ -25,3 +25,10 @@ This project is about combining various ideas and skills we’ve been practicing
  # Requirements
  
  To Learn about the Guardian API, take a look at [this page](http://open-platform.theguardian.com/documentation/). Also, try modifying [this example query](http://content.guardianapis.com/search?q=debates&api-key=test) or [this example query](http://content.guardianapis.com/search?q=debate&tag=politics/politics&from-date=2014-01-01&api-key=test).
+ 
+ # Final Output - Screenshots
+ 
+ ![screenshot_2017-07-26-15-35-58](https://user-images.githubusercontent.com/28901635/28621428-316138be-7211-11e7-8f71-5ca25009f1fe.png)
+ ![screenshot_2017-07-26-15-36-20](https://user-images.githubusercontent.com/28901635/28621634-e2e52a5a-7211-11e7-806f-2ee25ff64a97.png)
+ ![screenshot_2017-07-26-15-36-38](https://user-images.githubusercontent.com/28901635/28621695-13378c16-7212-11e7-9db0-f28381de261e.png)
+ ![screenshot_2017-07-26-15-38-21](https://user-images.githubusercontent.com/28901635/28621705-1ae7abee-7212-11e7-9a56-8e2c6dd08b34.png)
