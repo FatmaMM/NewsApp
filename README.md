@@ -26,6 +26,8 @@ This project is about combining various ideas and skills we’ve been practicing
  
  To Learn about the Guardian API, take a look at [this page](http://open-platform.theguardian.com/documentation/). Also, try modifying [this example query](http://content.guardianapis.com/search?q=debates&api-key=test) or [this example query](http://content.guardianapis.com/search?q=debate&tag=politics/politics&from-date=2014-01-01&api-key=test).
  
+ # project will be evaluated using the [News App project rubric](https://review.udacity.com/#!/rubrics/165/view)
+ 
  # Final Output - Screenshots
  
  ![screenshot_2017-07-26-15-35-58](https://user-images.githubusercontent.com/28901635/28621428-316138be-7211-11e7-8f71-5ca25009f1fe.png)
